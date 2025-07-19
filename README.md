@@ -13,7 +13,7 @@
 - 🌱 I’m currently exploring **LangChain**, **Next.js 14**, and **Firebase AI Extensions**  
 - 🎯 I'm passionate about **edutech, cyber-AI**, and creating impactful tools  
 - 💬 Ask me about anything related to **Flutter, web dev, and OpenAI integrations**  
-- 📫 How to reach me: **nandozico@example.com**  
+- 📫 How to reach me: **iniemailbukantahu@.com**  
 
 ---
 
