@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nando Zico</h1>
+![BAY pict2](https://github.com/user-attachments/assets/6532a12c-fed1-4650-8092-592e50305026)<h1 align="center">Hi 👋, I'm Nando Zico</h1>
 <h3 align="center">🚀 Full Stack Developer | 📱 App Creator | 🤖 AI Explorer</h3>
 
 <p align="center">
@@ -27,7 +27,9 @@ Backend:          Node.js, Express, Supabase, Firebase
 AI Tools:         OpenAI API, LangChain, GPT-4.0 Mini  
 Others:           Git, GitHub Actions, Figma, Postman
 
+<img width="512" height="512" alt="app_icon (2)" src="https://github.com/user-attachments/assets/492c7c22-25ac-43f8-943f-ab2013d06b62" />
+![BAY pict](https://github.com/user-attachments/assets/4960489c-3db3-446d-8523-6265d7faa3c1)
+![BAY pict2](https://github.com/user-attachments/assets/bd4d333d-cd55-4f45-9982-7849cd58c776)
 
-<img width="512" height="512" alt="app_icon (2)" src="https://github.com/user-attachments/assets/fcc6ef97-5a69-4ef8-baa6-51c77fbaf8fb" />
-<img width="4267" height="2083" alt="ss-an playstore (2)" src="https://github.com/user-attachments/assets/60155663-242f-47d1-9bc3-8cca98e70632" />
-![AI REVISI MAUL](https://github.com/user-attachments/assets/d0e7b0f7-4b43-487a-ae01-f095d2bf60d9)
+
+
